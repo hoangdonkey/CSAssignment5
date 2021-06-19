@@ -1,0 +1,6 @@
+D:\Aptech 2nd semester\.Net C#\CSAssignment5\ASM5\obj\Debug\ASM5.csprojResolveAssemblyReference.cache
+D:\Aptech 2nd semester\.Net C#\CSAssignment5\ASM5\bin\Debug\ASM5.exe.config
+D:\Aptech 2nd semester\.Net C#\CSAssignment5\ASM5\bin\Debug\ASM5.exe
+D:\Aptech 2nd semester\.Net C#\CSAssignment5\ASM5\bin\Debug\ASM5.pdb
+D:\Aptech 2nd semester\.Net C#\CSAssignment5\ASM5\obj\Debug\ASM5.exe
+D:\Aptech 2nd semester\.Net C#\CSAssignment5\ASM5\obj\Debug\ASM5.pdb
